@@ -1,0 +1,4 @@
+﻿  set associative new.cpp
+d:\assmbly\final\final\final\set associative new.cpp(108): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  final.vcxproj -> D:\Assmbly\Final\final\Debug\final.exe
+  final.vcxproj -> D:\Assmbly\Final\final\Debug\final.pdb (Partial PDB)
